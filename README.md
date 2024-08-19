@@ -7,11 +7,11 @@ This repository contains code and models for diagnosing Alzheimer's Disease usin
 
 - **alzheimer-classification-resnet50:** Implements the ResNet50 architecture, a widely-used deep residual network known for its effectiveness in overcoming the vanishing gradient problem, making it highly suitable for complex image classification tasks.
 
-## Language and Libraries
-**Python 3.10:** The project is developed using Python 3.10, taking advantage of its new features and improvements for enhanced performance and developer experience.
-**TensorFlow/Keras:** Used for building, training, and evaluating the deep learning models.
-**NumPy:** For efficient numerical computations.
-**Pandas:** For data manipulation and analysis.
+## Language and Libraries <br>
+**Python 3.10:** The project is developed using Python 3.10, taking advantage of its new features and improvements for enhanced performance and developer experience. <br>
+**TensorFlow/Keras:** Used for building, training, and evaluating the deep learning models. <br>
+**NumPy:** For efficient numerical computations. <br>
+**Pandas:** For data manipulation and analysis. <br>
 **Matplotlib:** For visualizing the training process and results.
 
 ## How to run the code? <br>
